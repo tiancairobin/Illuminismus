@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * <p> n stairs, for each step, one can climb 1 or 2 stairs. How many ways are there? </p>
+ * <p> top-down version. O(n)
  * @author robinwu
  *
  */
