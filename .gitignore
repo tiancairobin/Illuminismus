@@ -34,6 +34,7 @@ out
 gen
 target
 
-# IDE project files
+# Eclipse project files
 .classpath
 .project
+.settings
